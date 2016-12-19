@@ -1,0 +1,6 @@
+/Users/alexanderwjrussell/Projects/RomanNumerals_CS/RomanNumerals_CS/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/alexanderwjrussell/Projects/RomanNumerals_CS/RomanNumerals_CS/bin/Debug/nunit.framework.dll
+/Users/alexanderwjrussell/Projects/RomanNumerals_CS/RomanNumerals_CS/bin/Debug/RomanNumerals_CS.dll.mdb
+/Users/alexanderwjrussell/Projects/RomanNumerals_CS/RomanNumerals_CS/bin/Debug/RomanNumerals_CS.dll
+/Users/alexanderwjrussell/Projects/RomanNumerals_CS/RomanNumerals_CS/obj/Debug/RomanNumerals_CS.dll
+/Users/alexanderwjrussell/Projects/RomanNumerals_CS/RomanNumerals_CS/obj/Debug/RomanNumerals_CS.dll.mdb
