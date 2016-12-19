@@ -6,7 +6,8 @@ namespace RomanNumerals_CS
 	{
 		public static string Add(string value1, string value2)
 		{
-			return "II";
+			var answer = value1 + value2;
+			return answer;
 		}
 	}
 }
