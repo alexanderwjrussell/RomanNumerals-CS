@@ -18,6 +18,7 @@ namespace RomanNumerals_CS
 
 		public static string ConvertToIs(string number)
 		{
+			number = number.Replace("M", "DD");
 			number = number.Replace("D", "CCCCC");
 			number = number.Replace("C", "LL");
 			number = number.Replace("L", "XXXXX");
@@ -35,6 +36,7 @@ namespace RomanNumerals_CS
 			number = number.Replace("XXXXX", "L");
 			number = number.Replace("LL", "C");
 			number = number.Replace("CCCCC", "D");
+			number = number.Replace("DD", "M");
 			return number;
 		}
 	}
